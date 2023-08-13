@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+}
+
+#zluk-img{
+    background-image: url(../css/zluk.jpg);
+    background-repeat: no-repeat;    
+    background-size: cover;
+    background-position: center;;
+    height: 50vh;
+    box-sizing: border-box;
+}
+
+#row-6{
+    background-color: #444;
+    color: wheat;
+    background-color: green;
+    
+}
+.container-fluid{
+    margin: 0px auto        
+}
+    
+p{
+    color: wheat;
+}
+h{
+color: wheat;
+}
+
+h1{
+    color: wheat;
+}
+h2{
+    color: wheat;
+}
+    h3{
+        color: wheat;
+    }
+
+
+    
+
+    
+        
+
+
+
+    
+
+
+
